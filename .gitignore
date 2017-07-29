@@ -1,0 +1,6 @@
+*.class
+
+#package file
+*.war
+*.ear
+
